@@ -3,6 +3,18 @@
 }
 
 @media screen and (max-width: 1393px ){
+  #jumbotron,#list-group,#list-group-item,#nav-item,#navbar-brand,#{
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  #priceimg{
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
 
 }
 
@@ -11,5 +23,5 @@
 }
 
 @media screen and(max-width: 800px){
-    
+
 }
