@@ -2,6 +2,17 @@
      border-bottom: 3px solid #0067FF;
 }
 
+.priceimg{
+    width: 100%;
+}
+
+#photo {
+clear: both;
+line-height: 0;
+column-count: 4;
+column-gap: 0px;
+}
+
 @media screen and (max-width: 1393px ){
   .priceimg{
     clear: both;
