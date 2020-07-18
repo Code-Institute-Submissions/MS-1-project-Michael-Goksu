@@ -9,16 +9,6 @@ column-count: 4;
 column-gap: 0px;
 }
 
-.salestext{
-    float: left;
-    position: left center bottom;
-    margin-top: 5px;
-}
-
-.footersugpage{
-    float: bottom center;
-}
-
 .priceimg{
     width: 600px;
     height: 400px;
