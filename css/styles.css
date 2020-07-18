@@ -14,6 +14,25 @@ column-gap: 0px;
     height: 400px;
 }
 
+.aboutusrules{
+    color: #00317E;
+    font-family: ;
+}
+
+.aboutusinfo{
+    color: #0E56C0;
+    font-family: papyrus;
+}
+.badstuff{
+    color: #C31C1C;
+    font-style: oblique;
+}
+
+.visionstyle{
+    font-family: Segoe Script;
+    color: #00317E;
+
+}
 @media screen and (max-width: 1393px ){
   .priceimg{
     clear: both;
