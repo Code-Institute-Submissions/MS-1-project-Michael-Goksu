@@ -9,11 +9,17 @@ column-count: 4;
 column-gap: 0px;
 }
 
+.salestext{
+    float: left;
+    position: left center bottom;
+    margin-top: 5px;
+}
+
 @media screen and (max-width: 1393px ){
   .priceimg{
     clear: both;
-    width: 600px; 
-    height: 400px;
+    width: 400px; 
+    height: 200px;
     position: center;
     float: left;
     padding: 0;
@@ -24,8 +30,8 @@ column-gap: 0px;
 @media screen and (max-width:943px) {
   .priceimg{
     clear: both;
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 200px;
     position: center;
     float: left;
     padding: 0;
@@ -35,8 +41,8 @@ column-gap: 0px;
 @media screen and(max-width: 800px){
   .priceimg{
     clear: both;
-    width: 400px;
-    height: 200px;
+    width: 200px;
+    height: 50px;
     position: center;
     float: left;
     padding: 0;
