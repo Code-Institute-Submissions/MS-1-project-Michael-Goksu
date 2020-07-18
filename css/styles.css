@@ -26,7 +26,6 @@
 
 .aboutusrules{
     color: #00317E;
-    font-family: ;
 }
 
 .aboutusinfo{
@@ -40,6 +39,11 @@
 
 .visionstyle{
     font-family: Segoe Script;
+    color: #00317E;
+
+}
+.hometext > h1,p,a{
+    font-family: Impact;
     color: #00317E;
 
 }
