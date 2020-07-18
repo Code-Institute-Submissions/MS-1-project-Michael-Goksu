@@ -15,6 +15,10 @@ column-gap: 0px;
     margin-top: 5px;
 }
 
+.footersugpage{
+    float: bottom center;
+}
+
 @media screen and (max-width: 1393px ){
   .priceimg{
     clear: both;
